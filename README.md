@@ -4,3 +4,4 @@
 1.21.3 | https://ci.citizensnpcs.co/job/Citizens2/3644/
 
 1.17.1 | https://ci.citizensnpcs.co/job/Citizens2/3012/
+1.8.x | https://ci.citizensnpcs.co/job/Citizens2/3478/
